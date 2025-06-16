@@ -36,6 +36,20 @@ This interactive Streamlit application is designed to teach developers how to us
 - **Cost-effective** - no token usage for search operations
 - **Educational** - clear code structure for learning
 
+## 🎬 Demo
+
+Watch our LangChain Tools Playground in action:
+
+![LangChain Tools Playground Demo](./assets/langchain-tools-playground.gif)
+
+**This demo shows:**
+- Setting up the application
+- Using different search tools (Wikipedia, YouTube, Tavily)
+- Understanding tool outputs and UI features
+- Best practices for tool integration
+
+> 📹 **Full video available**: [Download HD version](https://github.com/EXPESRaza/langchain-tools-playground/raw/master/assets/langchain-tools-playground.mp4) (16MB MP4)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
